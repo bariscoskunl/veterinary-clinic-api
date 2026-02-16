@@ -90,5 +90,5 @@ Available endpoints:
 - Automatically created via `EnsureCreated()`
 - No migrations used in this version
 
-Connection string:
+
 
