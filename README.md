@@ -90,5 +90,11 @@ Available endpoints:
 - Automatically created via `EnsureCreated()`
 - No migrations used in this version
 
+## 📬 Contact
 
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out.
+
+- Email: bariscoskun441@gmail.com
+- GitHub: https://github.com/bariscoskunl
+- LinkedIn: https://www.linkedin.com/in/bariscoskun441
 
